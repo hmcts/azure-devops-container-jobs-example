@@ -1,5 +1,5 @@
 pool:
-  vmImage: 'vh-vsts-agent-dev'
+  name: 'vh-vsts-agent-dev'
 
 container: mcr.microsoft.com/dotnet/core/sdk:2.2
 
