@@ -1,5 +1,5 @@
 pool:
-  vmImage: 'ubuntu-16.04'
+  vmImage: 'vh-vsts-agent-dev'
 
 container: mcr.microsoft.com/dotnet/core/sdk:2.2
 
